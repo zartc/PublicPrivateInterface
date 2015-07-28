@@ -1,0 +1,1 @@
+A very small project that demonstrate how to provide multiple java interface on top of the same implementation to allow or disallow a client to access some super-user methods.
